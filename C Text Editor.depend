@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480708387 source:c:\users\ahmed\downloads\dd\c text editor\prog.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
